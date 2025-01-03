@@ -1,14 +1,14 @@
 <h1 align="center">
   Welcome to My Profile!
   <img
-    src="https://github.com/iBelando/iBelando/blob/master/img/git.gif"
+    src="https://github.com/Andysitoop/Andysitoop/blob/master/img/git.gif"
     width="75"
   />
 </h1>
 
 <p align="center">
   <img
-    src="https://github.com/iBelando/iBelando/blob/master/img/mario-coding.webp"
+    src="https://github.com/Andysitoop/Andysitoop/blob/master/img/mario-coding.webp"
     alt="Mario Coding Webp"
   />
 </p>
