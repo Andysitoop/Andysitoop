@@ -198,13 +198,13 @@
 
 <p align="center">
   <img
-    src="https://github.com/iBelando/iBelando/blob/output/github-contribution-grid-snake.svg"
+    src="https://github.com/Andysitoop/Andysitoop/blob/output/github-contribution-grid-snake.svg"
     alt="snake"
   />
 </p>
 
 <p align="center">
   <img
-    src="http://github-readme-streak-stats.herokuapp.com?user=iBelando&theme=github-dark"
+    src="http://github-readme-streak-stats.herokuapp.com?user=Andysitoop&theme=github-dark"
   />
 </p>
